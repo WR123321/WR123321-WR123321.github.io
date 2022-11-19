@@ -1,0 +1,127 @@
+body,td,input,select,div,span{font-size:15px; font-family: "Arial";color="215DC6";}
+
+BODY {
+	
+	SCROLLBAR-BASE-COLOR: #becfe0;
+	scrollbar-3d-light-color:#acd0e0;
+	scrollbar-shadow-color:#acd0e0;
+	padding:1px;margin:0px;
+
+}
+.treed{
+	height:36px;
+
+	padding-left:10px;
+
+	}
+	.treed1{
+	height:30px;
+
+	padding-left:10px;
+
+	}
+
+.TREEBODY{
+	background:#CCc;
+	
+	repeat: no-repeat;
+  position: left top;
+	}
+	.bBODY{
+	background:#396BA5;
+	repeat: no-repeat;
+  position: left top;
+	}
+
+.font-title{
+	height:38px;
+	font-size: 25px;
+	color="000000";
+	font-weight: bold;
+	padding-left:20px;
+	padding-top:2px;
+	
+	}
+.hd {
+ {font-size: 10px;}
+}
+.hd1
+{
+	font-size: 18px;
+	color="000000";
+	padding-top: 7px;
+		padding-left: 7px;
+font-weight: bold;
+	}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #215DC6;
+}
+a:hover {
+	text-decoration: underline;
+	color: #454545;
+}
+a:active {
+	text-decoration: none;
+	color: #215DC6;
+}
+
+
+
+.xtop, .xbottom {display:block; background:transparent; font-size:1px;}
+.xb1, .xb2, .xb3, .xb4 {display:block; overflow:hidden;}
+.xb1, .xb2, .xb3 {height:1px;}
+.xb2, .xb3, .xb4 {background:white; border-left:1px solid #08c; border-right:1px solid #08c;}
+.xb1 {margin:0 5px; background:#08c;}
+.xb2 {margin:0 3px; border-width:0 2px;}
+.xb3 {margin:0 2px;}
+.xb4 {height:2px; margin:0 1px;}
+
+.xboxcontent {display:block; background:white; border:0 solid #08c; border-width:0 1px;}
+
+
+#wsnazzy {background: transparent; margin:1em;}
+
+.wtop, .wbottom {display:block; background:transparent; font-size:1px;}
+.wb1, .wb2, .wb3, .wb4 {display:block; overflow:hidden;}
+.wb1, .wb2, .wb3 {height:1px;}
+.wb2, .wb3, .wb4 {background:#ccc; border-left:1px solid #08c; border-right:1px solid #08c;}
+.wb1 {margin:0 5px; background:#08c;}
+.wb2 {margin:0 3px; border-width:0 2px;}
+.wb3 {margin:0 2px;}
+.wb4 {height:2px; margin:0 1px;}
+
+.wboxcontent {display:block; background:#ccc; border:0 solid #08c; border-width:0 1px;}
+
+
+
+
+#fsnazzy {background: transparent; margin:1em;}
+
+.ftop, .fbottom {display:block; background:transparent; font-size:1px;}
+.fb1, .fb2, .fb3, .fb4 {display:block; overflow:hidden;}
+.fb1, .fb2, .fb3 {height:1px;}
+.fb2, .fb3, .fb4 {background:#3A6EA5; border-left:1px solid #08c; border-right:1px solid #08c;}
+.fb1 {margin:0 5px; background:#08c;}
+.fb2 {margin:0 3px; border-width:0 2px;}
+.fb3 {margin:0 2px;}
+.fb4 {height:2px; margin:0 1px;}
+
+.fboxcontent {display:block; background:#3A6EA5; border:0 solid #08c; border-width:0 1px;}
+
+
+.navPoint {COLOR: white; CURSOR: hand; FONT-FAMILY: Webdings; FONT-SIZE: 9pt}
+.dibian{
+	background-image:../images/dian03.gif;
+	}
+
+
+
+h1
+{
+
+}
